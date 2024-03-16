@@ -2,3 +2,9 @@ fastapi
 uvicorn
 jinja2
 python-multipart
+homoglyphs
+metaphone
+Levenshtein
+itertools
+os
+pymongo
