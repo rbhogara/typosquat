@@ -1,0 +1,2 @@
+# typosquat
+code for typosquatting
